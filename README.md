@@ -15,26 +15,26 @@ I kicked off the project by identifying the entities and attributes in the diffe
 
 Defining relationships between the tables using primary and foreign keys, I then created database objects by generating and running SQL scripts from the ERD tool.
 
-![SQL Script](/generated_sql_script.png "SQL Script")
+![SQL Script](/generated_sql_script.PNG "SQL Script")
 
-![Populating Database](/populate_database.png "Populating Database")
+![Populating Database](/populate_database.PNG "Populating Database")
 
 One of the most exciting parts of the project was creating views and materialized views that were tailored to the specific needs of external business partners. For example, I created a view in the PostgreSQL database that returned information needed by the external payroll company, which included a list of employees and the locations at which they work. 
 
-![Database Tables](/Task6A.png "Database Tables")
+![Database Tables](/Task6A.PNG "Database Tables")
 
 
-![Sales Details Table](/Task6B.png "Sales Details Table")
+![Sales Details Table](/Task6B.PNG "Sales Details Table")
 
 
-![View of Staff Location](/Task7.png "View of Staff Location")
+![View of Staff Location](/Task7.PNG "View of Staff Location")
 
 
-![Materialized View of Product Info](/Task8.png "Materialized View of Product Info")
+![Materialized View of Product Info](/Task8.PNG "Materialized View of Product Info")
 
 
 I exported the results to a CSV file and created a materialized view that returned information needed by a marketing consultant who required access to the product data in their MySQL database for a marketing campaign. I was even able to import the data from a CSV file to their MySQL database using phpMyAdmin.
 
-![Load Data to MySQL database using phpMyAdmin](/Task10.png "Load Data to MySQL database using phpMyAdmin")
+![Load Data to MySQL database using phpMyAdmin](/Task10.PNG "Load Data to MySQL database using phpMyAdmin")
 
 Overall, this project was an exciting opportunity to design and implement a comprehensive database system that will enable this coffee shop chain to make data-driven decisions, streamline its operations, and achieve its expansion goals. 
