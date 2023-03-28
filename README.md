@@ -11,7 +11,7 @@ I kicked off the project by identifying the entities and attributes in the diffe
 ![Data entities & attributes](/existing_data.png "Data entities & attributes")
 
 
-![Entity-Relationship Diagram Design](/task_correction.png "Entity-Relationship Diagram")
+![Entity-Relationship Diagram Design](/task_correction.PNG "Entity-Relationship Diagram")
 
 Defining relationships between the tables using primary and foreign keys, I then created database objects by generating and running SQL scripts from the ERD tool.
 
